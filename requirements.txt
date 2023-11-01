@@ -1,2 +1,7 @@
-requests
-dnspython
+django==2.2.3
+djangorestframework==3.9.4
+requests==2.10.0
+django-cors-headers==3.0.2
+django-redis==4.10.0
+requests==2.31.0
+coverage==7.3.2
